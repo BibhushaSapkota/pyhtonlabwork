@@ -7,8 +7,8 @@ time_taken_by_bus =(living_miles_apart/drives_velocity)*60
 time_spent_in_bus_stop=10*2
 total_time_taken_by_bus=time_taken_by_bus+time_spent_in_bus_stop
 time_taken_by_jogging=(1/7)*60+(2/15)*60+(1/7)*60
-print("the total time taken by bus is",total_time_taken_by_bus,"mph")
-print ("the total time taken by jogging is",time_taken_by_jogging,"mph")
+print("the total time taken by bus is",total_time_taken_by_bus)
+print ("the total time taken by jogging is",time_taken_by_jogging)
 if total_time_taken_by_bus < time_taken_by_jogging:
     print("taking bus is quicker")
 else:
