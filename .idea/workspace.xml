@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1760a6c1-8b88-4085-9ed4-19eb816c63f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/programming/duck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming/ddd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming/dude.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/demon.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming/demon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/devil.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming/devil.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/dog.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming/dog.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/dracula.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming/dracula.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/dragon.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming/dragon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/duck.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +14,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -33,16 +29,39 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ACER\PycharmProjects\pyhtonlabwork\programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.duck (1)">
+  <component name="RunManager" selected="Python.ddd">
+    <configuration name="ddd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyhtonlabwork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming/ddd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="devil" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyhtonlabwork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,27 +96,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\ACER\PycharmProjects\pyhtonlabwork\programming\dog.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="dragon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pyhtonlabwork" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\ACER\PycharmProjects\pyhtonlabwork\programming\dragon.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ddd" />
         <item itemvalue="Python.duck (1)" />
         <item itemvalue="Python.duck" />
         <item itemvalue="Python.dog" />
         <item itemvalue="Python.devil" />
-        <item itemvalue="Python.dragon" />
       </list>
     </recent_temporary>
   </component>
@@ -200,6 +198,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
