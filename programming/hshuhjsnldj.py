@@ -4,4 +4,4 @@ days=(((seconds//60)//60)//24)
 hour=((seconds//60)//60)
 minutes=(seconds)//60
 
-print("its",days,"day",hour,"hour",minutes,"minutes")
+print("its",days,"days",hour,"hour",minutes,"minutes")
